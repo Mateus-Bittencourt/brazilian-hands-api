@@ -11,6 +11,5 @@ const createOrUpdateCustomer = async (req, res) => {
   }
 };
 
-function x () {}
 
 export default { createOrUpdateCustomer };
